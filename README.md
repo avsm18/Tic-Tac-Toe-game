@@ -1,0 +1,3 @@
+# Tic-Tac-Toe-game
+This is a two player tic tac toe game.
+This is the two player tic tac toe game If one of the players gets three same symbols in a row - horizontally, vertically or diagonally - on a 3 X 3 grid then the player wins. It is made using C language in which player 1 is assigned O symbol and player 2 is assigned X symbol. So player enters a number from 0 to 9 and that changes to O or X symbol.First player 1 is given option to enter the number and number entered changes to O symbol and then player 2 is given choice to enter number which changes to X symbol and in this way the game continues till we get the same symbol horizontally , vertically or diagonally and the player wins otherwise the game draws
